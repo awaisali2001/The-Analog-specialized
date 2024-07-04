@@ -6,3 +6,15 @@ li{
 .text-center{
     text-align: center;
 }
+body{
+    background-color: rgb(238, 183, 183);
+}
+ul{
+    border: 0;
+    padding: 0%;
+    margin: 0%;
+    border-bottom: 0;
+    border-radius: 0;
+    box-sizing: border-box;
+    line-break: auto;
+}
